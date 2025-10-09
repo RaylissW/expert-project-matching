@@ -1,4 +1,25 @@
+# Виртуальное окружение
 venv/
+env/
+
+# Файлы PyCharm
 .idea/
+
+# Скомпилированные файлы Python
 __pycache__/
 *.pyc
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Локальные конфигурации
+*.env
+config.ini
+
+# Логи
+*.log
+
+# Временные файлы
+*.tmp
+*.temp
