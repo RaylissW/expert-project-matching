@@ -22,4 +22,15 @@
 - Pandas 
 - Matplotlib/Seaborn
 
+**Структура проекта:**
+- dockerfile (файл докера);
+- readme (файл с информацией о проекте);
+- data_loader (функция загрузки и фильтрации)
+- embedder (функция векторизации)
+- interface
+- Main.py
+- preprocessor (функция предобработки данных)
+- similarity_calculator (функция расчета косинусного расстояния, фильтров, визуализации) 
+
+
 
